@@ -1,0 +1,33 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.2.43",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "s_output" : "exporting...",
+                "b_export" : 1,
+                "export_path" : "E:\\Art101\\AFrame\\",
+                "b_interactive" : 0,
+                "b_renderer" : 1,
+                "b_settings" : 1,
+                "b_player" : 1,
+                "b_bake_lightmap" : 1,
+                "b_use_lightmapper" : 0,
+                "b_show_env_sky" : 0,
+                "f_raycast_length" : 1.0,
+                "b_cast_shadows" : 0,
+                "s_cubemap_ext" : "jpg",
+                "b_colorManagement" : 0,
+                "b_physicallyCorrectLights" : 0,
+                "b_aa" : 0,
+                "f_player_height" : 0.10000000149011612,
+                "b_raycast" : 1,
+                "b_camera_cube" : 1
+            },
+            "name" : "Scene"
+        }
+    ]
+}
